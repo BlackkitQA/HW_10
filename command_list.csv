@@ -1,0 +1,70 @@
+<<<<<<< HEAD
+=======
+
+   84  git config --global user.name "Yaroslav"
+   85  git config --global user.email "yaroslavkit@gmail.com"
+   93  git clone https://github.com/BlackkitQA/HW_10.git
+   94  git status
+   95  cd HW_10
+   96  git status
+   97  touch txt_ignore.txt
+   98  git status
+   99  git add txt_ignore.txt
+  100  git status
+  101  git commit -new file created
+  102  git commit -m "new file created"
+  103  git status
+  104  git log
+  105  git brunch
+  106  git branch
+  107  git chackout -b new_branch
+  108  git checkout -b new_branch
+  109  git branch
+  110  git checkout new_branch
+  111  nano txt_ignore.txt
+  112  git status
+  113  git commit -m "new modifide"
+  114  add txt_ignore.txt
+  115  git add txt_ignore.txt
+  116  git status
+  117  git commit -m "new modifide"
+  118  git checkout main
+  119  merge new_branch
+  120  git merge new_branch
+  121  git satus
+  122  git status
+  123  git push
+  124  nano .gitignore.txt
+  125  git status
+  126  add .gitignore.txt
+  127  git add .gitignore.txt
+  128  git status
+  129  git commit -m "txt ignore add to gitigore"
+  130  git touch main_test.txt
+  131  touch main_test.txt
+  132  git add mein_test.txt
+  133  git add main_test.txt
+  134  git commit -m "added mait_test"
+  135  git checkout -b develop
+  136  touch develop_test.txt
+  137  git add develop_test.txt
+  138  git commit -m "added develop_test"
+  139  nano develop_test.txt
+  140  git status
+  141  git add develop_test.txt
+  142  git commit -m "change in file"
+  143  checkout help
+  144  git checkout help
+  145  help
+  146  git help
+  147  git swaitch
+  148  git switch
+  149  git checkout
+  150  git branch
+  151  git chackout main
+  152  git checkout main
+  153  git marge develop
+  154  git merge develop
+  155  git log
+  156  history>command_list.csv
+>>>>>>> 37b57bbe373659d9e80cbf3a5708f699171222f9
